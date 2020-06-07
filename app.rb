@@ -4,8 +4,8 @@ module FormsLab
   class App < Sinatra::Base
 
     # code other routes/actions here
-    # post '/pirates' do
-    #
-    # end
+    get '/' do
+      
+    end
   end
 end
